@@ -1,0 +1,9 @@
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BuildOrder\BuildOrder\bin\Debug\BuildOrder.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BuildOrder\BuildOrder\bin\Debug\BuildOrder.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BuildOrder\BuildOrder\bin\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BuildOrder\BuildOrder\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BuildOrder\BuildOrder\obj\Debug\BuildOrder.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BuildOrder\BuildOrder\obj\Debug\BuildOrder.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BuildOrder\BuildOrder\obj\Debug\BuildOrder.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BuildOrder\BuildOrder\obj\Debug\BuildOrder.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BuildOrder\BuildOrder\obj\Debug\BuildOrder.pdb

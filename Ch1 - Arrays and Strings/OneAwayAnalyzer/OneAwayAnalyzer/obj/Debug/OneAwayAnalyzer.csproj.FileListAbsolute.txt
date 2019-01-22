@@ -1,0 +1,7 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\OneAwayAnalyzer\OneAwayAnalyzer\bin\Debug\OneAwayAnalyzer.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\OneAwayAnalyzer\OneAwayAnalyzer\bin\Debug\OneAwayAnalyzer.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\OneAwayAnalyzer\OneAwayAnalyzer\bin\Debug\OneAwayAnalyzer.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\OneAwayAnalyzer\OneAwayAnalyzer\obj\Debug\OneAwayAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\OneAwayAnalyzer\OneAwayAnalyzer\obj\Debug\OneAwayAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\OneAwayAnalyzer\OneAwayAnalyzer\obj\Debug\OneAwayAnalyzer.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\OneAwayAnalyzer\OneAwayAnalyzer\obj\Debug\OneAwayAnalyzer.pdb

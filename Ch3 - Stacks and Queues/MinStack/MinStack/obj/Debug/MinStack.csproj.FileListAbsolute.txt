@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStack\bin\Debug\MinStack.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStack\bin\Debug\MinStack.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStack\obj\Debug\MinStack.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStack\obj\Debug\MinStack.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStack\obj\Debug\MinStack.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStack\obj\Debug\MinStack.pdb

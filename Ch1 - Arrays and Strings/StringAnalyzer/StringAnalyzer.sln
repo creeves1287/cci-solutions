@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAnalyzer", "StringAnalyzer\StringAnalyzer.csproj", "{42F8605F-7FC4-427F-B651-A48BD18FCE15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAnalyzer.UnitTests", "StringAnalyzerTests\StringAnalyzer.UnitTests.csproj", "{6050B21A-3E07-4C80-9E63-D96934FB8BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F8605F-7FC4-427F-B651-A48BD18FCE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F8605F-7FC4-427F-B651-A48BD18FCE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F8605F-7FC4-427F-B651-A48BD18FCE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F8605F-7FC4-427F-B651-A48BD18FCE15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6050B21A-3E07-4C80-9E63-D96934FB8BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6050B21A-3E07-4C80-9E63-D96934FB8BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6050B21A-3E07-4C80-9E63-D96934FB8BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6050B21A-3E07-4C80-9E63-D96934FB8BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F1E6C7-E8BF-4303-9352-5DD8BBCD1307}
+	EndGlobalSection
+EndGlobal

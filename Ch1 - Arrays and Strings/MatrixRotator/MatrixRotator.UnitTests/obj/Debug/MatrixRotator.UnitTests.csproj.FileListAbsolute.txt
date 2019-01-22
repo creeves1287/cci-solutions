@@ -1,0 +1,17 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\MatrixRotator.UnitTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\MatrixRotator.UnitTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\MatrixRotator.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\MatrixRotator.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\MatrixRotator.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\obj\Debug\MatrixRotator.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\obj\Debug\MatrixRotator.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\obj\Debug\MatrixRotator.UnitTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\obj\Debug\MatrixRotator.UnitTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator.UnitTests\obj\Debug\MatrixRotator.UnitTests.pdb

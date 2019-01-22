@@ -1,0 +1,17 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\StringCompressor.UnitTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\StringCompressor.UnitTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\StringCompressor.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\StringCompressor.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\StringCompressor.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\obj\Debug\StringCompressor.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\obj\Debug\StringCompressor.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\obj\Debug\StringCompressor.UnitTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\obj\Debug\StringCompressor.UnitTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor.UnitTests\obj\Debug\StringCompressor.UnitTests.pdb

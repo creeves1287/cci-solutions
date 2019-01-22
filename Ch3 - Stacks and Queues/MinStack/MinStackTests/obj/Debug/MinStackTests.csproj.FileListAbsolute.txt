@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\MinStackTests.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\MinStackTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\MinStack.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\MinStack.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\obj\Debug\MinStackTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\obj\Debug\MinStackTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\obj\Debug\MinStackTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\obj\Debug\MinStackTests.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\MinStack\MinStackTests\obj\Debug\MinStackTests.pdb

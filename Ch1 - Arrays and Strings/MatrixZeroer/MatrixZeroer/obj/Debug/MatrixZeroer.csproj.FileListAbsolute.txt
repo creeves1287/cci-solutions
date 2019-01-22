@@ -1,0 +1,7 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer\bin\Debug\MatrixZeroer.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer\bin\Debug\MatrixZeroer.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer\bin\Debug\MatrixZeroer.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer\obj\Debug\MatrixZeroer.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer\obj\Debug\MatrixZeroer.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer\obj\Debug\MatrixZeroer.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer\obj\Debug\MatrixZeroer.pdb

@@ -1,0 +1,9 @@
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\ValidateBST\ValidateBST\bin\Debug\ValidateBST.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\ValidateBST\ValidateBST\bin\Debug\ValidateBST.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\ValidateBST\ValidateBST\bin\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\ValidateBST\ValidateBST\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\ValidateBST\ValidateBST\obj\Debug\ValidateBST.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\ValidateBST\ValidateBST\obj\Debug\ValidateBST.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\ValidateBST\ValidateBST\obj\Debug\ValidateBST.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\ValidateBST\ValidateBST\obj\Debug\ValidateBST.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\ValidateBST\ValidateBST\obj\Debug\ValidateBST.pdb

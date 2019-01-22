@@ -1,0 +1,7 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\UrlFormatter\UrlFormatter\bin\Debug\UrlFormatter.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\UrlFormatter\UrlFormatter\bin\Debug\UrlFormatter.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\UrlFormatter\UrlFormatter\bin\Debug\UrlFormatter.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\UrlFormatter\UrlFormatter\obj\Debug\UrlFormatter.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\UrlFormatter\UrlFormatter\obj\Debug\UrlFormatter.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\UrlFormatter\UrlFormatter\obj\Debug\UrlFormatter.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\UrlFormatter\UrlFormatter\obj\Debug\UrlFormatter.pdb

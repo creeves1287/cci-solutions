@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\StacksQueueTests.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\StacksQueueTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\StacksQueue.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\StacksQueue.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\obj\Debug\StacksQueueTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\obj\Debug\StacksQueueTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\obj\Debug\StacksQueueTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\obj\Debug\StacksQueueTests.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueueTests\obj\Debug\StacksQueueTests.pdb

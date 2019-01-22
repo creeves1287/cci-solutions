@@ -1,0 +1,9 @@
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\SumOfPaths\SumOfPaths\bin\Debug\SumOfPaths.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\SumOfPaths\SumOfPaths\bin\Debug\SumOfPaths.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\SumOfPaths\SumOfPaths\bin\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\SumOfPaths\SumOfPaths\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\SumOfPaths\SumOfPaths\obj\Debug\SumOfPaths.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\SumOfPaths\SumOfPaths\obj\Debug\SumOfPaths.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\SumOfPaths\SumOfPaths\obj\Debug\SumOfPaths.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\SumOfPaths\SumOfPaths\obj\Debug\SumOfPaths.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\SumOfPaths\SumOfPaths\obj\Debug\SumOfPaths.pdb

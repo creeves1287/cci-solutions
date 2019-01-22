@@ -1,0 +1,9 @@
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\CommonAncestorFinder\CommonAncestorFinder\bin\Debug\CommonAncestorFinder.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\CommonAncestorFinder\CommonAncestorFinder\bin\Debug\CommonAncestorFinder.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\CommonAncestorFinder\CommonAncestorFinder\bin\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\CommonAncestorFinder\CommonAncestorFinder\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\CommonAncestorFinder\CommonAncestorFinder\obj\Debug\CommonAncestorFinder.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\CommonAncestorFinder\CommonAncestorFinder\obj\Debug\CommonAncestorFinder.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\CommonAncestorFinder\CommonAncestorFinder\obj\Debug\CommonAncestorFinder.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\CommonAncestorFinder\CommonAncestorFinder\obj\Debug\CommonAncestorFinder.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\CommonAncestorFinder\CommonAncestorFinder\obj\Debug\CommonAncestorFinder.pdb

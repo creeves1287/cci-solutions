@@ -1,0 +1,11 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\bin\Debug\StringRotationChecker.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\bin\Debug\StringRotationChecker.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\bin\Debug\StringRotationChecker.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\bin\Debug\RabinKarpSubstringSearch.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\bin\Debug\RabinKarpSubstringSearch.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\bin\Debug\RabinKarpSubstringSearch.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\obj\Debug\StringRotationChecker.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\obj\Debug\StringRotationChecker.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\obj\Debug\StringRotationChecker.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\obj\Debug\StringRotationChecker.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringRotationChecker\StringRotationChecker\obj\Debug\StringRotationChecker.pdb

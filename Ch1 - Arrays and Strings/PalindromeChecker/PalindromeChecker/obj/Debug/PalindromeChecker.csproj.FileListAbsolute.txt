@@ -1,0 +1,7 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.pdb

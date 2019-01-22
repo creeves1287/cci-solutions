@@ -1,0 +1,17 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\MatrixZeroer.UnitTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\MatrixZeroer.UnitTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\MatrixZeroer.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\MatrixZeroer.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\MatrixZeroer.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\obj\Debug\MatrixZeroer.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\obj\Debug\MatrixZeroer.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\obj\Debug\MatrixZeroer.UnitTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\obj\Debug\MatrixZeroer.UnitTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixZeroer\MatrixZeroer.UnitTests\obj\Debug\MatrixZeroer.UnitTests.pdb

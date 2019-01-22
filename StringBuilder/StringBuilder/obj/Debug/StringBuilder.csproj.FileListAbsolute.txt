@@ -1,0 +1,7 @@
+C:\Users\reeves\source\repos\CCI\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\reeves\source\repos\CCI\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\reeves\source\repos\CCI\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\reeves\source\repos\CCI\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\reeves\source\repos\CCI\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb

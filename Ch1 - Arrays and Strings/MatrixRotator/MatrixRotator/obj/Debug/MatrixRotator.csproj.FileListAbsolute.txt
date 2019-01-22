@@ -1,0 +1,7 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\bin\Debug\MatrixRotator.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\bin\Debug\MatrixRotator.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\bin\Debug\MatrixRotator.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\MatrixRotator.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\MatrixRotator.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\MatrixRotator.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\MatrixRotator.pdb

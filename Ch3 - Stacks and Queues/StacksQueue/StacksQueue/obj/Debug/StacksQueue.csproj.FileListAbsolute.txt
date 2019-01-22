@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueue\bin\Debug\StacksQueue.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueue\bin\Debug\StacksQueue.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueue\obj\Debug\StacksQueue.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueue\obj\Debug\StacksQueue.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueue\obj\Debug\StacksQueue.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\StacksQueue\StacksQueue\obj\Debug\StacksQueue.pdb

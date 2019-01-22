@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\obj\Debug\SortStackTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\obj\Debug\SortStackTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\SortStackTests.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\SortStackTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\SortStack.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\SortStack.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\obj\Debug\SortStackTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\obj\Debug\SortStackTests.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStackTests\obj\Debug\SortStackTests.pdb

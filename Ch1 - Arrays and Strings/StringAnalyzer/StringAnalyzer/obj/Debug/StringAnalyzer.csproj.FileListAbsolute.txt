@@ -1,0 +1,7 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzer\bin\Debug\StringAnalyzer.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzer\bin\Debug\StringAnalyzer.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzer\bin\Debug\StringAnalyzer.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzer\obj\Debug\StringAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzer\obj\Debug\StringAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzer\obj\Debug\StringAnalyzer.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzer\obj\Debug\StringAnalyzer.pdb

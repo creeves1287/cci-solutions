@@ -1,0 +1,9 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringPermutationAnalyzer\StringPermutationAnalyzer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringPermutationAnalyzer\StringPermutationAnalyzer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringPermutationAnalyzer\StringPermutationAnalyzer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringPermutationAnalyzer\StringPermutationAnalyzer\bin\Debug\StringPermutationAnalyzer.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringPermutationAnalyzer\StringPermutationAnalyzer\bin\Debug\StringPermutationAnalyzer.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringPermutationAnalyzer\StringPermutationAnalyzer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringPermutationAnalyzer\StringPermutationAnalyzer\obj\Debug\StringPermutationAnalyzer.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringPermutationAnalyzer\StringPermutationAnalyzer\obj\Debug\StringPermutationAnalyzer.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringPermutationAnalyzer\StringPermutationAnalyzer\obj\Debug\StringPermutationAnalyzer.csprojResolveAssemblyReference.cache

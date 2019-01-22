@@ -1,0 +1,9 @@
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\MinimalTree\MinimalTree\obj\Debug\MinimalTree.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\MinimalTree\MinimalTree\bin\Debug\MinimalTree.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\MinimalTree\MinimalTree\bin\Debug\MinimalTree.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\MinimalTree\MinimalTree\bin\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\MinimalTree\MinimalTree\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\MinimalTree\MinimalTree\obj\Debug\MinimalTree.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\MinimalTree\MinimalTree\obj\Debug\MinimalTree.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\MinimalTree\MinimalTree\obj\Debug\MinimalTree.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\MinimalTree\MinimalTree\obj\Debug\MinimalTree.pdb

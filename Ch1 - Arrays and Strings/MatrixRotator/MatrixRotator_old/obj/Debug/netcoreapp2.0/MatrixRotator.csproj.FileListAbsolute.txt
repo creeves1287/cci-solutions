@@ -1,0 +1,11 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\bin\Debug\netcoreapp2.0\MatrixRotator.deps.json
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\bin\Debug\netcoreapp2.0\MatrixRotator.runtimeconfig.json
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\bin\Debug\netcoreapp2.0\MatrixRotator.runtimeconfig.dev.json
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\bin\Debug\netcoreapp2.0\MatrixRotator.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\bin\Debug\netcoreapp2.0\MatrixRotator.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\netcoreapp2.0\MatrixRotator.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\netcoreapp2.0\MatrixRotator.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\netcoreapp2.0\MatrixRotator.AssemblyInfoInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\netcoreapp2.0\MatrixRotator.AssemblyInfo.cs
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\netcoreapp2.0\MatrixRotator.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\MatrixRotator\MatrixRotator\obj\Debug\netcoreapp2.0\MatrixRotator.pdb

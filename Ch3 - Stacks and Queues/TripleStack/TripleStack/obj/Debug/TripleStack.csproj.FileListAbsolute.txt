@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\TripleStack\TripleStack\bin\Debug\TripleStack.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\TripleStack\TripleStack\bin\Debug\TripleStack.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\TripleStack\TripleStack\obj\Debug\TripleStack.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\TripleStack\TripleStack\obj\Debug\TripleStack.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\TripleStack\TripleStack\obj\Debug\TripleStack.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\TripleStack\TripleStack\obj\Debug\TripleStack.pdb

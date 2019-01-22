@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStack\obj\Debug\SortStack.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStack\obj\Debug\SortStack.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStack\bin\Debug\SortStack.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStack\bin\Debug\SortStack.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStack\obj\Debug\SortStack.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SortStack\SortStack\obj\Debug\SortStack.pdb

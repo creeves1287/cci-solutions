@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SetOfStacks\SetOfStacks\bin\Debug\SetOfStacks.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SetOfStacks\SetOfStacks\bin\Debug\SetOfStacks.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SetOfStacks\SetOfStacks\obj\Debug\SetOfStacks.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SetOfStacks\SetOfStacks\obj\Debug\SetOfStacks.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SetOfStacks\SetOfStacks\obj\Debug\SetOfStacks.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\SetOfStacks\SetOfStacks\obj\Debug\SetOfStacks.pdb

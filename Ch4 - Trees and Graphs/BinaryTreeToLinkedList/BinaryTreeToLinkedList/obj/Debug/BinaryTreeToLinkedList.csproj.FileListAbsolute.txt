@@ -1,0 +1,11 @@
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\bin\Debug\BinaryTreeToLinkedList.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\bin\Debug\BinaryTreeToLinkedList.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\bin\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\bin\Debug\LinkedList.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\bin\Debug\LinkedList.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\obj\Debug\BinaryTreeToLinkedList.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\obj\Debug\BinaryTreeToLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\obj\Debug\BinaryTreeToLinkedList.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\obj\Debug\BinaryTreeToLinkedList.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BinaryTreeToLinkedList\BinaryTreeToLinkedList\obj\Debug\BinaryTreeToLinkedList.pdb

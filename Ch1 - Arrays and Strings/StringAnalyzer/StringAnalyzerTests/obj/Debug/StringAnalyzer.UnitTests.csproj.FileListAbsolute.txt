@@ -1,0 +1,17 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\StringAnalyzerTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\StringAnalyzerTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\StringAnalyzer.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\StringAnalyzer.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\StringAnalyzer.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\obj\Debug\StringAnalyzer.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\obj\Debug\StringAnalyzer.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\obj\Debug\StringAnalyzer.UnitTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\obj\Debug\StringAnalyzerTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringAnalyzer\StringAnalyzerTests\obj\Debug\StringAnalyzerTests.pdb

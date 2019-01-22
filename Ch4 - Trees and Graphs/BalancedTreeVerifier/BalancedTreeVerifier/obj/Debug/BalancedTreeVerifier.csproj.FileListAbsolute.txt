@@ -1,0 +1,10 @@
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\bin\Debug\BalancedTreeVerifier.exe.config
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\bin\Debug\BalancedTreeVerifier.exe
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\bin\Debug\BalancedTreeVerifier.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\bin\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\obj\Debug\BalancedTreeVerifier.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\obj\Debug\BalancedTreeVerifier.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\obj\Debug\BalancedTreeVerifier.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\obj\Debug\BalancedTreeVerifier.exe
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\BalancedTreeVerifier\BalancedTreeVerifier\obj\Debug\BalancedTreeVerifier.pdb

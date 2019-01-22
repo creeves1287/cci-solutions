@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.pdb

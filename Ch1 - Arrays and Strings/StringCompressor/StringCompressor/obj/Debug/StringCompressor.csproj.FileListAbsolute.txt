@@ -1,0 +1,7 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor\bin\Debug\StringCompressor.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor\bin\Debug\StringCompressor.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor\bin\Debug\StringCompressor.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor\obj\Debug\StringCompressor.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor\obj\Debug\StringCompressor.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor\obj\Debug\StringCompressor.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\StringCompressor\StringCompressor\obj\Debug\StringCompressor.pdb

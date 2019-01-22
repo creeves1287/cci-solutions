@@ -1,0 +1,9 @@
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessor\bin\Debug\FindSuccessor.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessor\bin\Debug\FindSuccessor.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessor\bin\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessor\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessor\obj\Debug\FindSuccessor.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessor\obj\Debug\FindSuccessor.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessor\obj\Debug\FindSuccessor.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessor\obj\Debug\FindSuccessor.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessor\obj\Debug\FindSuccessor.pdb

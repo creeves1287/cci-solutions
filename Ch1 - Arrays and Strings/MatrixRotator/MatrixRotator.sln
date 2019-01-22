@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRotator.UnitTests", "MatrixRotator.UnitTests\MatrixRotator.UnitTests.csproj", "{BBF49597-9C37-4F5B-8AE1-05EDA7481B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixRotator", "MatrixRotator\MatrixRotator.csproj", "{CC2C09C3-CD83-4A51-AFA0-6C19F728260B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF49597-9C37-4F5B-8AE1-05EDA7481B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF49597-9C37-4F5B-8AE1-05EDA7481B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF49597-9C37-4F5B-8AE1-05EDA7481B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF49597-9C37-4F5B-8AE1-05EDA7481B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2C09C3-CD83-4A51-AFA0-6C19F728260B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2C09C3-CD83-4A51-AFA0-6C19F728260B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2C09C3-CD83-4A51-AFA0-6C19F728260B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2C09C3-CD83-4A51-AFA0-6C19F728260B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72A0918A-D731-40C5-AF48-1D82ED417F04}
+	EndGlobalSection
+EndGlobal

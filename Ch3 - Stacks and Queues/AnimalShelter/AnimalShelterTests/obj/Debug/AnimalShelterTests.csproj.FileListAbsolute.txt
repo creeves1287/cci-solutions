@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\AnimalShelterTests.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\AnimalShelterTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\AnimalShelter.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\AnimalShelter.pdb
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\obj\Debug\AnimalShelterTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\obj\Debug\AnimalShelterTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\obj\Debug\AnimalShelterTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\obj\Debug\AnimalShelterTests.dll
+C:\Users\reeves\source\repos\CCI\Ch3 - Stacks and Queues\AnimalShelter\AnimalShelterTests\obj\Debug\AnimalShelterTests.pdb

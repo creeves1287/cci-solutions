@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\FindSuccessorTests.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\FindSuccessorTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\FindSuccessor.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\FindSuccessor.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\obj\Debug\FindSuccessorTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\obj\Debug\FindSuccessorTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\obj\Debug\FindSuccessorTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\obj\Debug\FindSuccessorTests.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\FindSuccessor\FindSuccessorTests\obj\Debug\FindSuccessorTests.pdb

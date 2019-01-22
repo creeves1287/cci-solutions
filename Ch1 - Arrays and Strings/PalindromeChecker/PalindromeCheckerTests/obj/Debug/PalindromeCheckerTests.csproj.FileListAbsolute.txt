@@ -1,0 +1,17 @@
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\PalindromeCheckerTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\PalindromeCheckerTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\PalindromeChecker.exe
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\PalindromeChecker.pdb
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\PalindromeChecker.exe.config
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\obj\Debug\PalindromeCheckerTests.csprojResolveAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\obj\Debug\PalindromeCheckerTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\obj\Debug\PalindromeCheckerTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\obj\Debug\PalindromeCheckerTests.dll
+C:\Users\reeves\source\repos\CCI\Ch1 - Arrays and Strings\PalindromeChecker\PalindromeCheckerTests\obj\Debug\PalindromeCheckerTests.pdb
