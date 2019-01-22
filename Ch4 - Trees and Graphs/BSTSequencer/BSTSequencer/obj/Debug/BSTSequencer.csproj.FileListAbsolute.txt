@@ -1,0 +1,8 @@
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\BSTSequencer\BSTSequencer\bin\Debug\BSTSequencer.dll
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\BSTSequencer\BSTSequencer\bin\Debug\BSTSequencer.pdb
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\BSTSequencer\BSTSequencer\bin\Debug\GraphsInfrastructure.dll
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\BSTSequencer\BSTSequencer\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\BSTSequencer\BSTSequencer\obj\Debug\BSTSequencer.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\BSTSequencer\BSTSequencer\obj\Debug\BSTSequencer.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\BSTSequencer\BSTSequencer\obj\Debug\BSTSequencer.dll
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\BSTSequencer\BSTSequencer\obj\Debug\BSTSequencer.pdb
