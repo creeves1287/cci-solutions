@@ -41,6 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BinaryTreeNode.cs" />
+    <Compile Include="BinaryTreeNodeGeneric.cs" />
+    <Compile Include="Graph.cs" />
+    <Compile Include="GraphNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
