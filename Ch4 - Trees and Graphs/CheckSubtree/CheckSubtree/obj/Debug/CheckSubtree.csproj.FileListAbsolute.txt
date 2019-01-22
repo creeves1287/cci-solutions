@@ -1,0 +1,8 @@
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\CheckSubtree\CheckSubtree\bin\Debug\CheckSubtree.dll
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\CheckSubtree\CheckSubtree\bin\Debug\CheckSubtree.pdb
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\CheckSubtree\CheckSubtree\bin\Debug\GraphsInfrastructure.dll
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\CheckSubtree\CheckSubtree\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\CheckSubtree\CheckSubtree\obj\Debug\CheckSubtree.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\CheckSubtree\CheckSubtree\obj\Debug\CheckSubtree.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\CheckSubtree\CheckSubtree\obj\Debug\CheckSubtree.dll
+C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\CheckSubtree\CheckSubtree\obj\Debug\CheckSubtree.pdb
