@@ -35,7 +35,7 @@ namespace BSTSequencers
         }
 
         private void WeaveLists(LinkedList<int> left, LinkedList<int> right,
-            List<LinkedList<int>> weaved, LinkedList<int> prefix)
+            List<LinkedList<int>> results, LinkedList<int> prefix)
         {
             if (left.Count == 0 || right.Count == 0)
             {
@@ -43,10 +43,11 @@ namespace BSTSequencers
                 AddAll(prefix, result);
                 AddAll(left, result);
                 AddAll(right, result);
+                results.Add(result);
                 return;
             }
-            PrefixAndWeave(left, right, weaved, prefix);
-            PrefixAndWeave(right, left, weaved, prefix);
+            PrefixAndWeave(left, right, results, prefix);
+            PrefixAndWeave(right, left, results, prefix);
         }
 
         private void PrefixAndWeave(LinkedList<int> listToPrefix, LinkedList<int> listToWeave, List<LinkedList<int>> weaved, LinkedList<int> prefix)

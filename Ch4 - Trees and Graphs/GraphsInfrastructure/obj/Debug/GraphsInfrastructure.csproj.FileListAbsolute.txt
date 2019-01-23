@@ -4,3 +4,9 @@ C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\obj\
 C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\obj\Debug\GraphsInfrastructure.csproj.CoreCompileInputs.cache
 C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\obj\Debug\GraphsInfrastructure.dll
 C:\Users\chris\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\obj\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\bin\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\bin\Debug\GraphsInfrastructure.pdb
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\obj\Debug\GraphsInfrastructure.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\obj\Debug\GraphsInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\obj\Debug\GraphsInfrastructure.dll
+C:\Users\reeves\source\repos\CCI\Ch4 - Trees and Graphs\GraphsInfrastructure\obj\Debug\GraphsInfrastructure.pdb
