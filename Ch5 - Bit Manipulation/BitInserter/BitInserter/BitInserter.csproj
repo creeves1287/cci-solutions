@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MyBitInserterV2.cs" />
     <Compile Include="IBitInserter.cs" />
     <Compile Include="MyBitInserter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
