@@ -21,6 +21,13 @@ namespace BitInserterTests
             RunTests(bitInserter);
         }
 
+        [TestMethod]
+        public void MyBitInserterV2Test()
+        {
+            IBitInserter bitInserter = new MyBitInserterV2();
+            RunTests(bitInserter);
+        }
+
         private void RunTests(IBitInserter bitInserter)
         {
             BitInsertionTest(bitInserter);

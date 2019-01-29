@@ -4,3 +4,9 @@ C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\
 C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\obj\Debug\BitInserter.csproj.CoreCompileInputs.cache
 C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\obj\Debug\BitInserter.dll
 C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\obj\Debug\BitInserter.pdb
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\bin\Debug\BitInserter.dll
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\bin\Debug\BitInserter.pdb
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\obj\Debug\BitInserter.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\obj\Debug\BitInserter.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\obj\Debug\BitInserter.dll
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\BitInserter\BitInserter\obj\Debug\BitInserter.pdb
