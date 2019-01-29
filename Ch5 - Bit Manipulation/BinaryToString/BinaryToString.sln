@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryToString", "BinaryToString\BinaryToString.csproj", "{DA60ECF9-7510-4054-B9A6-38C844DE5F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryConverterTests", "BinaryConverterTests\BinaryConverterTests.csproj", "{7FF22DC3-54B9-4668-B9F8-5A90226CCC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA60ECF9-7510-4054-B9A6-38C844DE5F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA60ECF9-7510-4054-B9A6-38C844DE5F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA60ECF9-7510-4054-B9A6-38C844DE5F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA60ECF9-7510-4054-B9A6-38C844DE5F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF22DC3-54B9-4668-B9F8-5A90226CCC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF22DC3-54B9-4668-B9F8-5A90226CCC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF22DC3-54B9-4668-B9F8-5A90226CCC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF22DC3-54B9-4668-B9F8-5A90226CCC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADBAFCB0-38E1-42AF-AF0D-EF3B38E03DEA}
+	EndGlobalSection
+EndGlobal
