@@ -8,6 +8,12 @@ namespace BinaryToString
 {
     public class MyBinaryConverter : IBinaryConverter
     {
+        public string BinaryToString(double x)
+        {
+            int xInt = ConvertToInteger(x);
+            return BinaryToString(xInt);
+        }
+
         public string BinaryToString(int x)
         {
             if (x < 0) throw new ArgumentException("x must be greater than or equal to 0.");
@@ -28,6 +34,26 @@ namespace BinaryToString
                 }
             }
             return result.ToString();
+        }
+
+        private int ConvertToInteger(double x)
+        {
+            int xInt = (int)x;
+            int counter = 0;
+
+            while (x - xInt > 0)
+            {
+                x *= 10;
+                xInt = (int)x;
+                counter++;
+
+                if (counter > 32)
+                {
+                    return -1;
+                }
+            }
+
+            return xInt;
         }
     }
 }
