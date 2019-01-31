@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BinaryToString\BinaryToString\bin\Debug\BinaryToString.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BinaryToString\BinaryToString\bin\Debug\BinaryToString.pdb
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BinaryToString\BinaryToString\obj\Debug\BinaryToString.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BinaryToString\BinaryToString\obj\Debug\BinaryToString.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BinaryToString\BinaryToString\obj\Debug\BinaryToString.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BinaryToString\BinaryToString\obj\Debug\BinaryToString.pdb
