@@ -11,6 +11,10 @@ namespace BinaryToString
         public string BinaryToString(double x)
         {
             int xInt = ConvertToInteger(x);
+            if (xInt == -1)
+            {
+                return "ERROR";
+            }
             return BinaryToString(xInt);
         }
 
@@ -33,7 +37,8 @@ namespace BinaryToString
                     remainder -= digitValue;
                 }
             }
-            return result.ToString();
+            string binary = (result.Length > 32) ? "ERROR" : result.ToString();
+            return binary;
         }
 
         private int ConvertToInteger(double x)

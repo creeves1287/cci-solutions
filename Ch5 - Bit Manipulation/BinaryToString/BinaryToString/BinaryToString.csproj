@@ -44,6 +44,8 @@
     <Compile Include="MyBinaryConverter.cs" />
     <Compile Include="IBinaryConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextbookBinaryConverter.cs" />
+    <Compile Include="TextookBinaryConverterV2.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
