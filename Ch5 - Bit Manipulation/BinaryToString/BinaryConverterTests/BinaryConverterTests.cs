@@ -14,15 +14,38 @@ namespace BinaryConverterTests
             RunTests(binaryConverter);
         }
 
-        private void RunTests(IBinaryConverter binaryConverter)
+        [TestMethod]
+        public void TextbookBinaryConverterTest()
         {
-            TestBinaryConversion(binaryConverter);
+            IBinaryConverter binaryConverter = new TextbookBinaryConverter();
+            RunTests(binaryConverter);
         }
 
-        private void TestBinaryConversion(IBinaryConverter binaryConverter)
+        [TestMethod]
+        public void TextbookBinaryConverterV2Test()
         {
-            int x = 54;
-            string expected = "110110";
+            IBinaryConverter binaryConverter = new TextookBinaryConverterV2();
+            RunTests(binaryConverter);
+        }
+
+        private void RunTests(IBinaryConverter binaryConverter)
+        {
+            TestTooManyCharacters(binaryConverter);
+            TestBinaryConversionDouble(binaryConverter);
+        }
+
+        private void TestTooManyCharacters(IBinaryConverter binaryConverter)
+        {
+            double x = 0.2326595626264656564444894945643134315619811531315599488121321;
+            string expected = "ERROR";
+            string result = binaryConverter.BinaryToString(x);
+            Assert.AreEqual(expected, result);
+        }
+
+        private void TestBinaryConversionDouble(IBinaryConverter binaryConverter)
+        {
+            double x = 0.90625;
+            string expected = ".11101";
             string result = binaryConverter.BinaryToString(x);
             Assert.AreEqual(expected, result);
         }

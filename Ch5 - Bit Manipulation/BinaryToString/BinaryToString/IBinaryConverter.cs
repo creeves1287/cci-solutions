@@ -2,6 +2,6 @@
 {
     public interface IBinaryConverter
     {
-        string BinaryToString(int x);
+        string BinaryToString(double x);
     }
 }
