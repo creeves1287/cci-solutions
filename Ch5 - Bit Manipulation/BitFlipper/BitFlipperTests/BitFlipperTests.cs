@@ -14,6 +14,13 @@ namespace BitFlipperTests
             RunTests(bitFlipper);
         }
 
+        [TestMethod]
+        public void TextbookBitFlipperExtraMemoryTest()
+        {
+            IBitFlipper bitFlipper = new TextbookBitFlipperExtraMemory();
+            RunTests(bitFlipper);
+        }
+
         private void RunTests(IBitFlipper bitFlipper)
         {
             GetMaximumBitSequenceTest(bitFlipper);

@@ -50,5 +50,8 @@ namespace BitFlipper
 
             return maxSequence;
         }
+
+        // time complexity: O(b) where b = number of integer bits
+        // space complexity: O(1)
     }
 }
