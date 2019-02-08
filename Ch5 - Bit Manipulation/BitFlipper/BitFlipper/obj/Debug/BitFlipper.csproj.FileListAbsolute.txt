@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitFlipper\BitFlipper\bin\Debug\BitFlipper.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitFlipper\BitFlipper\bin\Debug\BitFlipper.pdb
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitFlipper\BitFlipper\obj\Debug\BitFlipper.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitFlipper\BitFlipper\obj\Debug\BitFlipper.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitFlipper\BitFlipper\obj\Debug\BitFlipper.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitFlipper\BitFlipper\obj\Debug\BitFlipper.pdb
