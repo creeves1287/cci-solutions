@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextNumberFinder", "NextNumberFinder\NextNumberFinder.csproj", "{99F2E4ED-6AF6-4987-A177-B358DB933580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextNumberFinderTests", "NextNumberFinderTests\NextNumberFinderTests.csproj", "{493C36CC-FDFF-4089-BA4E-4646F74FB711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F2E4ED-6AF6-4987-A177-B358DB933580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F2E4ED-6AF6-4987-A177-B358DB933580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F2E4ED-6AF6-4987-A177-B358DB933580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F2E4ED-6AF6-4987-A177-B358DB933580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493C36CC-FDFF-4089-BA4E-4646F74FB711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493C36CC-FDFF-4089-BA4E-4646F74FB711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493C36CC-FDFF-4089-BA4E-4646F74FB711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493C36CC-FDFF-4089-BA4E-4646F74FB711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E1BC899-7841-47F6-926B-57F699CB2086}
+	EndGlobalSection
+EndGlobal
