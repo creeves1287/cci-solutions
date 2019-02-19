@@ -14,11 +14,19 @@ namespace NextNumberFinderTests
             RunTests(nextNumberFinder);
         }
 
+        [TestMethod]
+        public void TextbookNextNumberFinderTests()
+        {
+            INextNumberFinder nextNumberFinder = new TextbookNextNumberFinder();
+            RunTests(nextNumberFinder);
+        }
+
         private void RunTests(INextNumberFinder nextNumberFinder)
         {
             NotPostiveTest(nextNumberFinder);
             MaxIntTest(nextNumberFinder);
             NexNumberTest(nextNumberFinder);
+            NextNumberTrailingZeros(nextNumberFinder);
         }
 
         private void NotPostiveTest(INextNumberFinder nextNumberFinder)
@@ -41,6 +49,14 @@ namespace NextNumberFinderTests
             NextNumbers result = nextNumberFinder.GetNextNumbers(n);
             Assert.AreEqual(1783, result.Next);
             Assert.AreEqual(1759, result.Previous);
+        }
+
+        private void NextNumberTrailingZeros(INextNumberFinder nextNumberFinder)
+        {
+            int n = 1744;
+            NextNumbers result = nextNumberFinder.GetNextNumbers(n);
+            Assert.AreEqual(1760, result.Next);
+            Assert.AreEqual(1736, result.Previous);
         }
     }
 }
