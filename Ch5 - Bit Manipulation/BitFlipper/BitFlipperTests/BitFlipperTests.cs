@@ -21,6 +21,13 @@ namespace BitFlipperTests
             RunTests(bitFlipper);
         }
 
+        [TestMethod]
+        public void TextbookBitFlipperOptimalTest()
+        {
+            IBitFlipper bitFlipper = new TextbookBitFlipperOptimal();
+            RunTests(bitFlipper);
+        }
+
         private void RunTests(IBitFlipper bitFlipper)
         {
             GetMaximumBitSequenceTest(bitFlipper);

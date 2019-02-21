@@ -45,6 +45,7 @@
     <Compile Include="MyBitFlipper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TextbookBitFlipperExtraMemory.cs" />
+    <Compile Include="TextbookBitFlipperOptimal.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
