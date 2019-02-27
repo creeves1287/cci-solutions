@@ -21,6 +21,13 @@ namespace NextNumberFinderTests
             RunTests(nextNumberFinder);
         }
 
+        [TestMethod]
+        public void TextbookNextNumberFinderWithArithmeticTest()
+        {
+            INextNumberFinder nextNumberFinder = new TextbookNextNumberFinderWithArithmetic();
+            RunTests(nextNumberFinder);
+        }
+
         private void RunTests(INextNumberFinder nextNumberFinder)
         {
             NotPostiveTest(nextNumberFinder);
