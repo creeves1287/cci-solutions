@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitDifferencesCounter\BitDifferencesCounter\bin\Debug\BitDifferencesCounter.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitDifferencesCounter\BitDifferencesCounter\bin\Debug\BitDifferencesCounter.pdb
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitDifferencesCounter\BitDifferencesCounter\obj\Debug\BitDifferencesCounter.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitDifferencesCounter\BitDifferencesCounter\obj\Debug\BitDifferencesCounter.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitDifferencesCounter\BitDifferencesCounter\obj\Debug\BitDifferencesCounter.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\BitDifferencesCounter\BitDifferencesCounter\obj\Debug\BitDifferencesCounter.pdb
