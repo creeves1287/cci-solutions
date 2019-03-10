@@ -5,3 +5,10 @@ C:\Users\reeves\source\repos\RabinKarpSubstringSearch\RabinKarpSubstringSearch\o
 C:\Users\reeves\source\repos\RabinKarpSubstringSearch\RabinKarpSubstringSearch\obj\Debug\RabinKarpSubstringSearch.csproj.CoreCompileInputs.cache
 C:\Users\reeves\source\repos\RabinKarpSubstringSearch\RabinKarpSubstringSearch\obj\Debug\RabinKarpSubstringSearch.exe
 C:\Users\reeves\source\repos\RabinKarpSubstringSearch\RabinKarpSubstringSearch\obj\Debug\RabinKarpSubstringSearch.pdb
+C:\Users\chris\source\repos\CCI\Ch1 - Arrays and Strings\RabinKarpSubstringSearch\RabinKarpSubstringSearch\bin\Debug\RabinKarpSubstringSearch.exe.config
+C:\Users\chris\source\repos\CCI\Ch1 - Arrays and Strings\RabinKarpSubstringSearch\RabinKarpSubstringSearch\bin\Debug\RabinKarpSubstringSearch.exe
+C:\Users\chris\source\repos\CCI\Ch1 - Arrays and Strings\RabinKarpSubstringSearch\RabinKarpSubstringSearch\bin\Debug\RabinKarpSubstringSearch.pdb
+C:\Users\chris\source\repos\CCI\Ch1 - Arrays and Strings\RabinKarpSubstringSearch\RabinKarpSubstringSearch\obj\Debug\RabinKarpSubstringSearch.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CCI\Ch1 - Arrays and Strings\RabinKarpSubstringSearch\RabinKarpSubstringSearch\obj\Debug\RabinKarpSubstringSearch.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CCI\Ch1 - Arrays and Strings\RabinKarpSubstringSearch\RabinKarpSubstringSearch\obj\Debug\RabinKarpSubstringSearch.exe
+C:\Users\chris\source\repos\CCI\Ch1 - Arrays and Strings\RabinKarpSubstringSearch\RabinKarpSubstringSearch\obj\Debug\RabinKarpSubstringSearch.pdb
