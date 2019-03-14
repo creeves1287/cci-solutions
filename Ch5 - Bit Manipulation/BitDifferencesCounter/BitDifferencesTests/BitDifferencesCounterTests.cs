@@ -10,17 +10,24 @@ namespace BitDifferencesTests
         [TestMethod]
         public void MyBitDifferencesCounterTests()
         {
-            IBitDiffernecesCounter bitDiffernecesCounter = new MyBitDifferencesCounter();
+            IBitDifferencesCounter bitDiffernecesCounter = new MyBitDifferencesCounter();
             RunTests(bitDiffernecesCounter);
         }
 
-        private void RunTests(IBitDiffernecesCounter bitDiffernecesCounter)
+        [TestMethod]
+        public void TextbookBitDifferencesCounterTests()
+        {
+            IBitDifferencesCounter bitDifferencesCounter = new TextbookBitDifferencesCounter();
+            RunTests(bitDifferencesCounter);
+        }
+
+        private void RunTests(IBitDifferencesCounter bitDiffernecesCounter)
         {
             BitDifferencesTest(bitDiffernecesCounter);
             NoBitDifferencesTest(bitDiffernecesCounter);
         }
 
-        private void BitDifferencesTest(IBitDiffernecesCounter bitDiffernecesCounter)
+        private void BitDifferencesTest(IBitDifferencesCounter bitDiffernecesCounter)
         {
             int n = 75; //1001011
             int m = 62; //0111110
@@ -29,7 +36,7 @@ namespace BitDifferencesTests
             Assert.AreEqual(expected, result);
         }
 
-        private void NoBitDifferencesTest(IBitDiffernecesCounter bitDiffernecesCounter)
+        private void NoBitDifferencesTest(IBitDifferencesCounter bitDiffernecesCounter)
         {
             int n = 75;
             int m = 75;
