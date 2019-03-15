@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\bin\Debug\PairwiseSwap.dll
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\bin\Debug\PairwiseSwap.pdb
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.dll
+C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.pdb
