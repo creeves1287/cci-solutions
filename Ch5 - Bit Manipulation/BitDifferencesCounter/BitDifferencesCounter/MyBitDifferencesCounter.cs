@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BitDifferencesCounting
 {
-    public class MyBitDifferencesCounter : IBitDiffernecesCounter
+    public class MyBitDifferencesCounter : IBitDifferencesCounter
     {
         public int CountBitDifferences(int n, int m)
         {

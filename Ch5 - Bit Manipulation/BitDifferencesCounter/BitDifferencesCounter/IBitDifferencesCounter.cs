@@ -1,6 +1,6 @@
 ﻿namespace BitDifferencesCounting
 {
-    public interface IBitDiffernecesCounter
+    public interface IBitDifferencesCounter
     {
         int CountBitDifferences(int n, int m);
     }

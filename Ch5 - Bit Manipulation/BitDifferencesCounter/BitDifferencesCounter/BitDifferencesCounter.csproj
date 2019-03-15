@@ -41,9 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IBitDiffernecesCounter.cs" />
+    <Compile Include="IBitDifferencesCounter.cs" />
     <Compile Include="MyBitDifferencesCounter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextbookBitDifferencesCounter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
