@@ -4,3 +4,9 @@ C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap
 C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.csproj.CoreCompileInputs.cache
 C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.dll
 C:\Users\chris\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.pdb
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\bin\Debug\PairwiseSwap.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\bin\Debug\PairwiseSwap.pdb
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\PairwiseSwap\PairwiseSwap\obj\Debug\PairwiseSwap.pdb
