@@ -14,6 +14,13 @@ namespace PairwiseSwapperTests
             RunTests(pairwiseSwapper);
         }
 
+        [TestMethod]
+        public void MyPairwiseSwapperWithAlternatingZerosMaskTests()
+        {
+            IPairwiseSwapper pairwiseSwapper = new MyPairwiseSwapperWithAlternatingZerosMask();
+            RunTests(pairwiseSwapper);
+        }
+
         private void RunTests(IPairwiseSwapper pairwiseSwapper)
         {
             int n = 9;
