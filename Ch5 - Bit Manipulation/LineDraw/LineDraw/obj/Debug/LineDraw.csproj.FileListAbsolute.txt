@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\LineDraw\LineDraw\bin\Debug\LineDraw.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\LineDraw\LineDraw\bin\Debug\LineDraw.pdb
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\LineDraw\LineDraw\obj\Debug\LineDraw.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\LineDraw\LineDraw\obj\Debug\LineDraw.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\LineDraw\LineDraw\obj\Debug\LineDraw.dll
+C:\Users\reeves\source\repos\CCI\Ch5 - Bit Manipulation\LineDraw\LineDraw\obj\Debug\LineDraw.pdb

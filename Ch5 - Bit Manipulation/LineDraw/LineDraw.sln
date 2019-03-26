@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineDraw", "LineDraw\LineDraw.csproj", "{B51F6056-DB64-4F89-954F-448038F74C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineDrawTests", "LineDrawTests\LineDrawTests.csproj", "{A342C1B1-EE3C-4143-9E39-618E5595D5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51F6056-DB64-4F89-954F-448038F74C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51F6056-DB64-4F89-954F-448038F74C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51F6056-DB64-4F89-954F-448038F74C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51F6056-DB64-4F89-954F-448038F74C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A342C1B1-EE3C-4143-9E39-618E5595D5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A342C1B1-EE3C-4143-9E39-618E5595D5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A342C1B1-EE3C-4143-9E39-618E5595D5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A342C1B1-EE3C-4143-9E39-618E5595D5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3BE7D57-04E7-4E30-B5FC-350C1BCFD0E6}
+	EndGlobalSection
+EndGlobal
