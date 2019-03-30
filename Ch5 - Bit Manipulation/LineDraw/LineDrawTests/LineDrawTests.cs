@@ -15,6 +15,13 @@ namespace LineDrawTests
             RunTests(lineDrawer);
         }
 
+        [TestMethod]
+        public void TextbookLineDrawerTests()
+        {
+            ILineDrawer lineDrawer = new TextbookLineDrawer();
+            RunTests(lineDrawer);
+        }
+
         private void RunTests(ILineDrawer lineDrawer)
         {
             int width = 32;
