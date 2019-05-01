@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\ApocalypseBirthCalculationsTests.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\ApocalypseBirthCalculationsTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\ApocalypseBirthCalculations.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\ApocalypseBirthCalculations.pdb
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\obj\Debug\ApocalypseBirthCalculationsTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\obj\Debug\ApocalypseBirthCalculationsTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\obj\Debug\ApocalypseBirthCalculationsTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\obj\Debug\ApocalypseBirthCalculationsTests.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculationsTests\obj\Debug\ApocalypseBirthCalculationsTests.pdb

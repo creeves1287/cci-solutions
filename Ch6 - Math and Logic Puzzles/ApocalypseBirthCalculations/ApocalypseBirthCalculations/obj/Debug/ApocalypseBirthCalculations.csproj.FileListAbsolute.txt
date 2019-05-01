@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculations\bin\Debug\ApocalypseBirthCalculations.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculations\bin\Debug\ApocalypseBirthCalculations.pdb
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculations\obj\Debug\ApocalypseBirthCalculations.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculations\obj\Debug\ApocalypseBirthCalculations.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculations\obj\Debug\ApocalypseBirthCalculations.dll
+C:\Users\reeves\source\repos\CCI\Ch6 - Math and Logic Puzzles\ApocalypseBirthCalculations\ApocalypseBirthCalculations\obj\Debug\ApocalypseBirthCalculations.pdb
