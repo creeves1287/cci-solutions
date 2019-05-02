@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TripleStep\TripleStep\bin\Debug\TripleStep.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TripleStep\TripleStep\bin\Debug\TripleStep.pdb
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TripleStep\TripleStep\obj\Debug\TripleStep.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TripleStep\TripleStep\obj\Debug\TripleStep.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TripleStep\TripleStep\obj\Debug\TripleStep.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TripleStep\TripleStep\obj\Debug\TripleStep.pdb

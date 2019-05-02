@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\RobotGridTests.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\RobotGridTests.pdb
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\RobotGrid.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\RobotGrid.pdb
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\obj\Debug\RobotGridTests.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\obj\Debug\RobotGridTests.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\obj\Debug\RobotGridTests.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGridTests\obj\Debug\RobotGridTests.pdb
