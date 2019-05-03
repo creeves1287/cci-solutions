@@ -16,6 +16,13 @@ namespace RobotGridTests
             RunTests(robotGridTraverser);
         }
 
+        [TestMethod]
+        public void TextbookRobotGridTraverserTests()
+        {
+            IRobotGridTraverser robotGridTraverser = new TextbookRobotGridTraverser();
+            RunTests(robotGridTraverser);
+        }
+
         private void RunTests(IRobotGridTraverser robotGridTraverser)
         {
             TraverseGridNoObstaclesTest(robotGridTraverser);
@@ -23,8 +30,8 @@ namespace RobotGridTests
 
         private void TraverseGridNoObstaclesTest(IRobotGridTraverser robotGridTraverser)
         {
-            int rows = 1000,
-                columns = 1000;
+            int rows = 100,
+                columns = 100;
             Cell[][] grid = ConstructGrid(rows, columns);
             PopulateGrid(grid, 0.2);
             char[][] gridDrawing = ConstructDrawingGrid(rows, columns);

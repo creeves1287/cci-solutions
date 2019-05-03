@@ -46,6 +46,7 @@
     <Compile Include="MyRobotGridTraverser.cs" />
     <Compile Include="PathsTree.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextbookRobotGridTraverser.cs" />
     <Compile Include="TreeNode.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

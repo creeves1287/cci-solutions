@@ -4,3 +4,9 @@ C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGri
 C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGrid\obj\Debug\RobotGrid.csproj.CoreCompileInputs.cache
 C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGrid\obj\Debug\RobotGrid.dll
 C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGrid\obj\Debug\RobotGrid.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGrid\bin\Debug\RobotGrid.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGrid\bin\Debug\RobotGrid.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGrid\obj\Debug\RobotGrid.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGrid\obj\Debug\RobotGrid.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGrid\obj\Debug\RobotGrid.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\RobotGrid\RobotGrid\obj\Debug\RobotGrid.pdb
