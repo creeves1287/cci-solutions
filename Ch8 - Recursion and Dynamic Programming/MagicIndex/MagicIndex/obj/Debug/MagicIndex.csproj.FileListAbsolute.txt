@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\MagicIndex\MagicIndex\bin\Debug\MagicIndex.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\MagicIndex\MagicIndex\bin\Debug\MagicIndex.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\MagicIndex\MagicIndex\obj\Debug\MagicIndex.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\MagicIndex\MagicIndex\obj\Debug\MagicIndex.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\MagicIndex\MagicIndex\obj\Debug\MagicIndex.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\MagicIndex\MagicIndex\obj\Debug\MagicIndex.pdb
