@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\obj\Debug\PowerSetTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\obj\Debug\PowerSetTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\PowerSetTests.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\PowerSetTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\PowerSet.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\PowerSet.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\obj\Debug\PowerSetTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\obj\Debug\PowerSetTests.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSetTests\obj\Debug\PowerSetTests.pdb

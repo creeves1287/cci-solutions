@@ -41,8 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ISubsetsFinder.cs" />
     <Compile Include="MySubsetsFinder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextbookSubsetsFinderCombinatorics.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

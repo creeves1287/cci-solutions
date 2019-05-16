@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSet\bin\Debug\PowerSet.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSet\bin\Debug\PowerSet.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSet\obj\Debug\PowerSet.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSet\obj\Debug\PowerSet.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSet\obj\Debug\PowerSet.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PowerSet\PowerSet\obj\Debug\PowerSet.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PowerSet
 {
-    public class MySubsetsFinder
+    public class MySubsetsFinder : ISubsetsFinder
     {
         public List<List<int>> FindSubsets(int[] a)
         {
@@ -21,22 +21,24 @@ namespace PowerSet
             int value = a[index];
             if (index == a.Length - 1)
             {
-                AddSubset(value, subsets);
+                AddValueAsSubset(value, subsets);
                 return;
             }
 
             FindSubsets(subsets, a, index + 1);
-            foreach (List<int> subset in subsets)
+            int length = subsets.Count;
+            for (int i = 0; i < length; i++)
             {
+                List<int> subset = subsets[i];
                 List<int> clone = new List<int>(subset);
                 clone.Add(value);
                 subsets.Add(clone);
             }
 
-            AddSubset(value, subsets);
+            AddValueAsSubset(value, subsets);
         }
 
-        private void AddSubset(int value, List<List<int>> subsets)
+        private void AddValueAsSubset(int value, List<List<int>> subsets)
         {
             List<int> subset = new List<int>();
             subset.Add(value);

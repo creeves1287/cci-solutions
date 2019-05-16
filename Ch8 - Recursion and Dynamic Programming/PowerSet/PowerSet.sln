@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerSet", "PowerSet\PowerSet.csproj", "{E1291B39-CBDF-42C7-B768-F6EC0DFAD5F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerSetTests", "PowerSetTests\PowerSetTests.csproj", "{EC967D3F-DBE4-4DAB-9DFC-C186B5404CE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E1291B39-CBDF-42C7-B768-F6EC0DFAD5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1291B39-CBDF-42C7-B768-F6EC0DFAD5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1291B39-CBDF-42C7-B768-F6EC0DFAD5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC967D3F-DBE4-4DAB-9DFC-C186B5404CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC967D3F-DBE4-4DAB-9DFC-C186B5404CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC967D3F-DBE4-4DAB-9DFC-C186B5404CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC967D3F-DBE4-4DAB-9DFC-C186B5404CE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
