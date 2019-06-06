@@ -14,6 +14,13 @@ namespace RecursiveMultiplyTests
             RunTests(recursiveMultiplier);
         }
 
+        [TestMethod]
+        public void TextbookRecursiveMultiplierTests()
+        {
+            IRecursiveMultiplier recursiveMultiplier = new TextbookRecursiveMultiplier();
+            RunTests(recursiveMultiplier);
+        }
+
         private void RunTests(IRecursiveMultiplier recursiveMultiplier)
         {
             ZeroInputTests(recursiveMultiplier);
@@ -42,7 +49,7 @@ namespace RecursiveMultiplyTests
         private void MultiplyTests(IRecursiveMultiplier recursiveMultiplier, int a)
         {
             Random rand = new Random();
-            int b = rand.Next();
+            int b = rand.Next(20);
             MultiplyTest(recursiveMultiplier, a, b);
             MultiplyTest(recursiveMultiplier, b, a);
         }
