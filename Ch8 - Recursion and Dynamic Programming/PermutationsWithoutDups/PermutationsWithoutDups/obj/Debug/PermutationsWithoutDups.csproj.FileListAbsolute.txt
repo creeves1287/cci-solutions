@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PermutationsWithoutDups\PermutationsWithoutDups\bin\Debug\PermutationsWithoutDups.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PermutationsWithoutDups\PermutationsWithoutDups\bin\Debug\PermutationsWithoutDups.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PermutationsWithoutDups\PermutationsWithoutDups\obj\Debug\PermutationsWithoutDups.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PermutationsWithoutDups\PermutationsWithoutDups\obj\Debug\PermutationsWithoutDups.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PermutationsWithoutDups\PermutationsWithoutDups\obj\Debug\PermutationsWithoutDups.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PermutationsWithoutDups\PermutationsWithoutDups\obj\Debug\PermutationsWithoutDups.pdb
