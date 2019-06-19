@@ -23,6 +23,13 @@ namespace PermutationsWithoutDupsTests
             RunTests(permutationGenerator);
         }
 
+        [TestMethod]
+        public void TextbookPermutationGenerator2Test()
+        {
+            IPermutationGenerator permutationGenerator = new TextbookPermutationsGenerator2();
+            RunTests(permutationGenerator);
+        }
+
         private void RunTests(IPermutationGenerator permutationGenerator)
         {
             string s = "abcde";

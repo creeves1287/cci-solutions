@@ -45,6 +45,7 @@
     <Compile Include="MyPermutationGenerator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TextbookPermutationsGenerator.cs" />
+    <Compile Include="TextbookPermutationsGenerator2.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
