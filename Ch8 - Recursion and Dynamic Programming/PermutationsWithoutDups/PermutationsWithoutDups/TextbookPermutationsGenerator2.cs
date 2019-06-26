@@ -23,7 +23,7 @@ namespace PermutationsWithoutDups
             for (int i = 0; i < len; i++)
             {
                 string before = remainder.Substring(0, i);
-                string after = remainder.Substring(i + 1, len);
+                string after = remainder.Substring(i + 1, len - i - 1);
                 char c = remainder[i];
                 GeneratePermutations(prefix + c, before + after, result);
             }
