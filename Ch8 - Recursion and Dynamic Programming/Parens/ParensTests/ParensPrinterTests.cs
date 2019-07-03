@@ -24,6 +24,13 @@ namespace ParensTests
             RunTests(parensPrinter);
         }
 
+        [TestMethod]
+        public void TextbookParensPrinterEfficientTests()
+        {
+            IParensPrinter parensPrinter = new TextbookParensPrinterEfficient();
+            RunTests(parensPrinter);
+        }
+
         private void RunTests(IParensPrinter parensPrinter)
         {
             int n = 5;

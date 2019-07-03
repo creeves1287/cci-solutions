@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\PaintFillTests.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\PaintFillTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\PaintFill.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\PaintFill.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\obj\Debug\PaintFillTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\obj\Debug\PaintFillTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\obj\Debug\PaintFillTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\obj\Debug\PaintFillTests.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\PaintFill\PaintFillTests\obj\Debug\PaintFillTests.pdb
