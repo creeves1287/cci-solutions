@@ -17,8 +17,8 @@ namespace PaintFillTests
 
         private void RunTests(IPainter painter)
         {
-            int x = 5;
-            int y = 5;
+            int x = 10;
+            int y = 20;
             int colors = 3;
             string paintColor = "X";
             Random r = new Random();
