@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueens\obj\Debug\EightQueens.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueens\obj\Debug\EightQueens.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueens\bin\Debug\EightQueens.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueens\bin\Debug\EightQueens.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueens\obj\Debug\EightQueens.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueens\obj\Debug\EightQueens.pdb

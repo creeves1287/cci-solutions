@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOfBoxes", "StackOfBoxes\StackOfBoxes.csproj", "{8A9EF772-3B35-45CC-88F5-9A961A4D7205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOfBoxesTests", "StackOfBoxesTests\StackOfBoxesTests.csproj", "{BC19E7A1-3701-4B63-8F48-2E325A555881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A9EF772-3B35-45CC-88F5-9A961A4D7205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9EF772-3B35-45CC-88F5-9A961A4D7205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9EF772-3B35-45CC-88F5-9A961A4D7205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9EF772-3B35-45CC-88F5-9A961A4D7205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC19E7A1-3701-4B63-8F48-2E325A555881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC19E7A1-3701-4B63-8F48-2E325A555881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC19E7A1-3701-4B63-8F48-2E325A555881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC19E7A1-3701-4B63-8F48-2E325A555881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3565C02-D697-4374-949F-0CFA5F400B92}
+	EndGlobalSection
+EndGlobal

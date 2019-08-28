@@ -1,0 +1,16 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\obj\Debug\EightQueensTests.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\obj\Debug\EightQueensTests.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\EightQueensTests.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\EightQueensTests.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\EightQueens.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\EightQueens.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\obj\Debug\EightQueensTests.csproj.CopyComplete
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\obj\Debug\EightQueensTests.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\EightQueens\EightQueensTests\obj\Debug\EightQueensTests.pdb

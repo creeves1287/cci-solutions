@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\StackOfBoxes\StackOfBoxes\bin\Debug\StackOfBoxes.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\StackOfBoxes\StackOfBoxes\bin\Debug\StackOfBoxes.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\StackOfBoxes\StackOfBoxes\obj\Debug\StackOfBoxes.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\StackOfBoxes\StackOfBoxes\obj\Debug\StackOfBoxes.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\StackOfBoxes\StackOfBoxes\obj\Debug\StackOfBoxes.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\StackOfBoxes\StackOfBoxes\obj\Debug\StackOfBoxes.pdb

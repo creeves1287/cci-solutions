@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\BooleanEvaluation\BooleanEvaluation\bin\Debug\BooleanEvaluation.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\BooleanEvaluation\BooleanEvaluation\bin\Debug\BooleanEvaluation.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\BooleanEvaluation\BooleanEvaluation\obj\Debug\BooleanEvaluation.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\BooleanEvaluation\BooleanEvaluation\obj\Debug\BooleanEvaluation.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\BooleanEvaluation\BooleanEvaluation\obj\Debug\BooleanEvaluation.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\BooleanEvaluation\BooleanEvaluation\obj\Debug\BooleanEvaluation.pdb
