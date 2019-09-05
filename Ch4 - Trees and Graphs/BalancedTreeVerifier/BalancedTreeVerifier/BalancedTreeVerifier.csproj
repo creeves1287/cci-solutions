@@ -53,8 +53,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\GraphsInfrastructure\GraphsInfrastructure\GraphsInfrastructure.csproj">
-      <Project>{CD078A1C-64A2-4348-8167-55D25C49876A}</Project>
+    <ProjectReference Include="..\..\GraphsInfrastructure\GraphsInfrastructure.csproj">
+      <Project>{f760eb4a-955f-47e3-a9d3-225a4d026df6}</Project>
       <Name>GraphsInfrastructure</Name>
     </ProjectReference>
   </ItemGroup>

@@ -4,3 +4,8 @@ C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TowersO
 C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.CoreCompileInputs.cache
 C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.dll
 C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.dll
+C:\Users\chris\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb

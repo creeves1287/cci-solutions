@@ -18,11 +18,12 @@ namespace TowersOfHanoiTests
 
         private void RunTests(ITowersOfHanoiSolver towersOfHanoiSolver)
         {
-            int n = 3;
+            int n = 10;
             Stack<int> start = CreateStartTower(n);
             Stack<int> buffer = new Stack<int>();
             Stack<int> end = new Stack<int>();
             towersOfHanoiSolver.SolvePuzzle(start, buffer, end, n, PrintTowers);
+            PrintTowers(start, buffer, end);
         }
 
         private Stack<int> CreateStartTower(int n)
@@ -85,11 +86,11 @@ namespace TowersOfHanoiTests
             {
                 if (j < (n - val))
                 {
-                    Trace.Write("   ");
+                    Trace.Write(" ");
                 }
                 else
                 {
-                    Trace.Write("__");
+                    Trace.Write("_");
                 }
             }
             Trace.Write("||");
@@ -97,11 +98,11 @@ namespace TowersOfHanoiTests
             {
                 if (j < val)
                 {
-                    Trace.Write("__");
+                    Trace.Write("_");
                 }
                 else
                 {
-                    Trace.Write("   ");
+                    Trace.Write(" ");
                 }
             }
         }
