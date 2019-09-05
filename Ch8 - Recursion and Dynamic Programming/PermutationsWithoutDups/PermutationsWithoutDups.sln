@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsWithoutDups", "PermutationsWithoutDups\PermutationsWithoutDups.csproj", "{6615F5E3-2D30-4E64-A328-079AA123D48A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsWithoutDupsTests", "PermutationsWithoutDupsTests\PermutationsWithoutDupsTests.csproj", "{3D462EF2-DE7C-419F-B067-BDB0F97B9E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6615F5E3-2D30-4E64-A328-079AA123D48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6615F5E3-2D30-4E64-A328-079AA123D48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6615F5E3-2D30-4E64-A328-079AA123D48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6615F5E3-2D30-4E64-A328-079AA123D48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D462EF2-DE7C-419F-B067-BDB0F97B9E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D462EF2-DE7C-419F-B067-BDB0F97B9E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D462EF2-DE7C-419F-B067-BDB0F97B9E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D462EF2-DE7C-419F-B067-BDB0F97B9E02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD7D4488-93F0-41B4-8761-A815CA1B6316}
+	EndGlobalSection
+EndGlobal

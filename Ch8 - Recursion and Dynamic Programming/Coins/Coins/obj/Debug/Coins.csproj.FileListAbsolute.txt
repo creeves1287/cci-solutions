@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Coins\Coins\bin\Debug\Coins.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Coins\Coins\bin\Debug\Coins.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Coins\Coins\obj\Debug\Coins.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Coins\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Coins\Coins\obj\Debug\Coins.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Coins\Coins\obj\Debug\Coins.pdb

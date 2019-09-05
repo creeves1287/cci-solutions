@@ -1,0 +1,6 @@
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Parens\Parens\bin\Debug\Parens.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Parens\Parens\bin\Debug\Parens.pdb
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Parens\Parens\obj\Debug\Parens.csprojAssemblyReference.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Parens\Parens\obj\Debug\Parens.csproj.CoreCompileInputs.cache
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Parens\Parens\obj\Debug\Parens.dll
+C:\Users\reeves\source\repos\CCI\Ch8 - Recursion and Dynamic Programming\Parens\Parens\obj\Debug\Parens.pdb
